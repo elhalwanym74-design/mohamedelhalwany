@@ -1,0 +1,6 @@
+{
+  "name": "كود كرافت | منصة التدريب البرمجي ومخزن الأكواد",
+  "description": "بيئة تدريب برمجية متكاملة لإنشاء وتطوير الأكواد، معاينتها بشكل تفاعلي فوري، وتخزين وتنظيم أهم الأكواد البرمجية وإدارتها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
